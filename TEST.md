@@ -1,1 +1,1 @@
-Why are we here? Just to suffer?
+lets get to bashing nuts, as well as deez nuts
