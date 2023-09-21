@@ -1,8 +1,5 @@
-testing test: testendo!
-test purposes text
-One is for REWRITE, Two is for ADD LINE, amirite?
-Noice, i got it m8. >> is to ADD, > is to REWRITE
-what is AMEND?
-lubba dubba dub dub
-dance dance robolution
-what is git add -i?
+testing nano, never thought that there is an APP inside Terminal! bruh
+but oh well, there it is. nice.
+NANO NANO NAAANO, I LOVE U NAAAAANO
+
+
