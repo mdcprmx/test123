@@ -1,6 +1,0 @@
-#include <stdio.h>
-
-int main (){
-    printf("Harro sxsxsxsxsWarudo!");
-    return 0;  
-}
