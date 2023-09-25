@@ -1,9 +1,3 @@
-bruh i love u man
-why are we AMENDing?
-testtt112333
-dance dance revolution
-WAAYYYYY
-Layla is the best girl in the world!
-Kira is the best girl in the world!
-see ya later aligator
-Nobody loves me anymoar
+Well, I'm a total newb who practices git, terminal, and all that stuff.
+- started studying git and terminal in 2023 september.
+- started studying C language in 2023 semptember. (btw, it's not C# or C++, just C)
