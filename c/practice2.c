@@ -106,6 +106,9 @@ printf("Your DKP is %f",DKP);
 
 printf("\n\n");
 printf("Your IQ is %f, nice.",other_efficiency_stat);
+
+// end credits.
+
 printf("\n\n");
 printf("~ Code is written using lessons from YouTube channel \"Bro Code\"\n");
 printf("~ https://www.youtube.com/watch?v=87SH2Cn0s9A");
