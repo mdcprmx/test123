@@ -95,6 +95,7 @@ printf("\nYou also have a hobby eh? What is it?\n - %s.\n%s?! Woah, that's nice!
 
 printf("\n\n");
 printf("Weapon Equipped: %s",weapon);
+printf("\n");
 
 // < %f > - refers to number with decimals.
 //          from < float > variable.
@@ -105,6 +106,10 @@ printf("Your DKP is %f",DKP);
 
 printf("\n\n");
 printf("Your IQ is %f, nice.",other_efficiency_stat);
+printf("\n\n");
+printf("~ Code is written using lessons from YouTube channel \"Bro Code\"\n");
+printf("~ https://www.youtube.com/watch?v=87SH2Cn0s9A");
+printf("\n");
 
 
 
