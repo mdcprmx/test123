@@ -5,7 +5,7 @@ int main (){
     
     // Data types:                       // Description:                   Refer to it using:
 
-    char a = 'C';                        // single character               %c
+    char a = 'Y';                        // single character               %c
     char b[] = "LongAssName";            // array of characters, words.    %s
 
     float c = 3.1234567;                 // 4 bytes (32bits) 6-7 digits    %f
@@ -20,25 +20,41 @@ int main (){
     bool waypoint_discovered = true;
     
 
+    // ------------------ Print section ------------------
+    // --- Section 1: float and double
 
-
-
-    
-    // --------- Print section ---------
-    
     // btw, < printf("%0.1f") > or < printf("%0.15f") refers to amount of decimals after dot.
     // example:
     printf("\nThis line will show 2 digits after dot : %0.2lf",d);
     printf("\n");
-    // cause of < %0.2 > part.
+    // cause of < %0.2 > line.
     // example 2:
     printf("But this line will show 12 digits after dot : %0.12lf",d);
     printf("\n\n");
-    // cause of < %0.12 > part. Data type may change tho, be it 'float > %f' or 'double > %lf'.
+    // cause of < %0.12 > line. Data type may change tho, be it [float > %f] or [double > %lf].
+
     printf("Float and Double data types:\n");
     printf("%0.7f",c);   // float
     printf("\n");
     printf("%0.15lf",d);  // double
+
+    // --- Section 2: boolean
+
+    printf("\n\nBoolean will show:");
+    printf("\n");
+    printf("True as: %d, %d, %d.",e,alive,waypoint_discovered);
+    printf("\n");
+    printf("False as: %d.",skill_is_ready);
+    printf("\n");
+
+    // --- Section 3: char
+
+    printf("\nChar will show:");
+    printf("\n");
+    printf("Single char as this: %c \n",a); // < char > uses %c
+    printf("String as this: %s\n",b);
+
+
 
 
 
