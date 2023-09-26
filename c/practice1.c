@@ -1,14 +1,31 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("harro warudo! \n");            // escape sequence = character combination consisting of a backslash "\" 
-    printf("NIGERUNDAYOOO SMOKEY \n");     //                   followed by a LETTER or combination of DIGITS.
-    printf("\n");                          //                   They specify ACTIONS within a line or string of text.
-    printf("I like\nturtles! \n");         //                   \n = new line
-    printf("meme desu \n \n");             //                   \t = tab
+
+// escape sequence = character combination consisting of a backslash "\" 
+//                   followed by a LETTER or combination of DIGITS.
+//
+//                   They specify ACTIONS within a line or string of text.
+//
+//                   \n = newline
+//                   \t = tab
+
+    printf("What will happen");
+    printf(" if I am not going to use esc seq?");
+    printf(" Text will be written in single line!");
+    printf("\n");
+    printf("\nHello World! \n");
+    printf("\n");
+    printf("I like\nturtles! \n");
+    printf("\n");
+    printf("NIGERUNDAYOOO SMOKEY \n");
+    printf("Noice \n");
     printf("\tOne\tTwo\tThree\n ");
+    printf("\n");
     printf("1 2 3 \n ");
     printf("\t 1 \t 2 \t 3 \n");
+    printf("\t 4 \t 5 \t 6 \n");
+    printf("\t 7 \t 8 \t 9 \n");
 
     // This is a single line comment
     // Same, just another single line comment
