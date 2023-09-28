@@ -18,6 +18,10 @@ int main (){
     bool alive = true;
     bool skill_is_ready = false;
     bool waypoint_discovered = true;
+
+    char v = 100;                        // 1 byte (from -128 to +127)     %d or %c
+    unsigned char uV = 255;              // 1 byte (from 0 to +255)        %d or %c
+    
     
 
     // ------------------ Print section ------------------
@@ -42,7 +46,7 @@ int main (){
 
     printf("\n\nBoolean will show:");
     printf("\n");
-    printf("True as: %d, %d, %d.",e,alive,waypoint_discovered);
+    printf("True as: %d, %d, %d.", e, alive, waypoint_discovered);
     printf("\n");
     printf("False as: %d.",skill_is_ready);
     printf("\n");
@@ -52,10 +56,10 @@ int main (){
     printf("\nChar will show:");
     printf("\n");
     printf("Single char as this: %c \n",a); // < char > uses %c
-    printf("String as this: %s\n",b);
+    printf("String of chars as this: %s\n",b);
 
 
 
-
+    return 0;
 
 }
