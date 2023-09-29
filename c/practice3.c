@@ -19,14 +19,41 @@ int main (){
     bool skill_is_ready = false;
     bool waypoint_discovered = true;
 
-    char v = 100;                        // 1 byte (from -128 to +127)     %d or %c
-    unsigned char uV = 255;              // 1 byte (from 0 to +255)        %d or %c
+    // for numberical CHAR use %d.
+    // u can also use ASCII to show chars as numbers, but bruh, for real?
     
+    char v = -97;                        // 1 byte (from -128 to +127)     %d
+    unsigned char uV = 249;              // 1 byte (from 0 to +255)        %d 
+    // btw < signed char > and < char > are the 
+    // same. These are exactly the same expressions.
+
+
+
+    // Data types:                       // Description:                   Refer to it using:
+
+    short int m = 32500;                 // 2 bytes (-32,768 to +32,767)   %d
+    unsigned short int k = 65500;        // 2 bytes (0 to +65,535)         %d
+
+    // also, ppl usually just name them < short >, not < short int > 
+    // so yeah. Kind-a stupid but whatever
+
+    short peepee = 433;                  // same as < short int >          %d
+    unsigned short pe = 50200;           // same as < unsigned short int > %d
+
+    int jo = 2147483641;                 // 4 bytes (-2 bln to +2 bln)     %d
+    unsigned int ko = 4294957223;        // 4 bytes (0 to 4 billions)      %u   <-- not D, it uses U.
+
+    // these < long long int > are rarely used, but u should know about them in case u need em.
+    long long int uw = 9292389238239;    // 8 bytes (HUGE LARGE NUMBERS)   %lld
+    unsigned long long int uwu = 1823923801937918273; // (0 to 18 qntlion) %llu
+
+
+
     
 
+    //
     // ------------------ Print section ------------------
     // --- Section 1: float and double
-
     // btw, < printf("%0.1f") > or < printf("%0.15f") refers to amount of decimals after dot.
     // example:
     printf("\nThis line will show 2 digits after dot : %0.2lf",d);
@@ -57,6 +84,29 @@ int main (){
     printf("\n");
     printf("Single char as this: %c \n",a); // < char > uses %c
     printf("String of chars as this: %s\n",b);
+
+    // - char numerical
+
+    printf("\nNumerical char, range from -127 to +128: %d", v);
+    printf("\nNumerial unsigned char, range from 0 to 255: %d", uV);
+
+    // --- Section 4: short int and unsigned 
+    
+    printf("\n\nTHIS is short int : %d", m);
+    printf("\nAnd this - is unsigned short int : %d", k);
+    printf("\nTHis is short int too : %d", peepee);
+    printf("\nUnsigned short #2 : %d", pe);
+
+    // --- Section 5: int
+
+    printf("\n\nSoo this is integer: %d",jo);
+    printf("\nANd this is unsigned integer: %u",ko); // remember that unsigned int uses %u, not the ususal %d.
+
+    // --- Section 6: long long int
+
+    printf("\n\nle Long LONG integer: %lld", uw);            // %lld stands for long long d
+    printf("\nze unsigned Long LONG integer: %llu", uwu);    // %llu stands for long long u
+
 
 
 
