@@ -8,9 +8,9 @@ int main (){
     double gg = 476.4;
 
 
-    printf("\nfirst %4.0d\nsecond %.1d", first, segg );
-    printf("\nlalala , dance dance , \ \\ \" \'haya haya ");
-    printf("\n\n first -<%f> second - <%e> third - <%g>",gg,gg,gg);
+    printf("\n\rfirst %4.0d\nsecond %.1d", first, segg );
+    printf("\nlalala , dance dance , \\ \" \'haya haya ");
+    printf("\n first -<%f> \rsecond - <%e> t\nhird - <%g> ",gg,gg,gg);
 
     return(0);
 }
