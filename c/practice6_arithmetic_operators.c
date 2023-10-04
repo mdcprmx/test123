@@ -13,12 +13,14 @@ int main (){
     //  -- (decrement)
 
     // Section 1 - declaration:
-    int iks = 5;
-    int igrek = 3;
+    int iks = 27;
+    int igrek = 13;
+
+    printf("\nX = %d\nY = %d\n\n", iks, igrek);
 
     // Section 2 - calculations:
     int res_addition = iks + igrek;
-    printf("\nAddition result: %d\n\n", res_addition);
+    printf("Addition result: %d\n\n", res_addition);
     
     int res_subtraction = iks - igrek;
     printf("Subtraction result: %d\n\n", res_subtraction);
@@ -40,10 +42,17 @@ int main (){
     int res_modulus = iks % igrek;
     printf("What is this? MODULUS?!.. anyway, modulus result: %d\n\n", res_modulus);
 
-    
+    iks++;
+    printf("Increment applied to X: %d\n\n", iks);
+    iks--;
+    printf("Decrement applied to X: %d\n\n", iks);
+    iks--; iks--; iks--;
+    printf("Decrement applied to X three times: %d\n\n", iks);
 
+    // so basically Increment is literally "plus one". Simple.
+    // and Decrement is basically "minus one". Even pre schoolers can understand that.
 
-
+    // a-and what is modulus? idk. some fancy mathemagics
 
     return(0);
 }
