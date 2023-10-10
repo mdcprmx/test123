@@ -29,19 +29,24 @@ int main() {
 
         x = pow(6, 10);     // "6 to the POWER of 10 is". But what is POWER?... dunno man, I sucked at math in school.
         printf("\nSix to power of 10 is: %lf\n", x);
-        printf("Formatted six to power of 10 is: %.4lf \n", x);
+        printf("Formatted six to power of 10 is: %.1lf \n", x);
 
-        c = fabs(-99);      // dunno man, some FAB feature. mathemagic!
+        c = fabs(-56);      // dunno man, some FAB feature. mathemagic!
+        printf("\nFabs: %.2lf\n", c);
 
+        v = log(5);
+        printf("\nLogorythm of 5: %lf\n", v);
 
+        b = sin(26);
+        printf("\nSin: %lf\n", b);
 
+        n = cos(26);
+        printf("\nCos: %lf\n", n);
 
-
-
-
-    
-
-
+        m = tan(26);
+        printf("\nTan: %lf\n", m); 
+        
+        // mathemagics! I don't understand any of it.
 
 
     return 0;
