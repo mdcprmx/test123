@@ -3,6 +3,9 @@
 // switch = efficient alternative to using many "else if" statements
 //          allows a VALUE to be tested againts many cases.
 
+// break = used to stop programm from executing ALL THE CODE WITHOUT STOPPING
+//         so, don't forget to paste BREAKs.
+
 int main() {
 
     // 1 - Declaration
@@ -15,7 +18,7 @@ int main() {
     // 3 - Main body
     
     switch(number){
-        
+
     case 1: 
         printf("Lonely one.\n");
         break;
@@ -68,7 +71,7 @@ int main() {
 
     // default means ELSE basically; default code to run if not a single case matches.
     default: 
-        printf("Oopsie, I don't have any opinion on this number.\n");
+        printf("\nOopsie, I don't have an opinion on this number. \n(But I do have an opinon about 0 till 9 numbers, and a few extra.)\n\n");
     }
 
 return 0;
