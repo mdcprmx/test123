@@ -1,0 +1,94 @@
+0000000000000000000000000000000000000000 b0906fec810e83864e2075e7901fdf640ab43807 test testing <saladbox207@protonmail.com> 1694496978 +0900	clone: from github.com:mdcprmx/test123.git
+b0906fec810e83864e2075e7901fdf640ab43807 778cf00455f91a7f0c0392e058358fa977fba31a test testing <saladbox207@protonmail.com> 1694497664 +0900	commit: adding new file NEW.md
+778cf00455f91a7f0c0392e058358fa977fba31a b482a955c0c89cf40b361ff04be842a184e999c4 test testing <saladbox207@protonmail.com> 1694582931 +0900	commit: yeehaaww m8
+b482a955c0c89cf40b361ff04be842a184e999c4 14787905d75499fe78d943b0bf4770cbf5f7cd2f test testing <saladbox207@protonmail.com> 1694583337 +0900	commit: deleting NEW.md
+14787905d75499fe78d943b0bf4770cbf5f7cd2f 603a31201601e0f8275461c526288b78679fe1d8 test testing <saladbox207@protonmail.com> 1694585567 +0900	commit: added INFO.md
+603a31201601e0f8275461c526288b78679fe1d8 ec0de830b32923b3acd33bb161ab31ae77783ac2 test testing <saladbox207@protonmail.com> 1694671476 +0900	commit: NEW TOP CONTENT IS HERE BOIS (no, not really, im just ROFLing)
+ec0de830b32923b3acd33bb161ab31ae77783ac2 be7e5eaf7d5e510e1f0e5fe0ae64f6fc1a39d115 test testing <saladbox207@protonmail.com> 1694997930 +0900	revert: Revert "NEW TOP CONTENT IS HERE BOIS (no, not really, im just ROFLing)"
+be7e5eaf7d5e510e1f0e5fe0ae64f6fc1a39d115 a0b74ac31cf4a3ec7b90d6fdd26d2663f6b38488 test testing <saladbox207@protonmail.com> 1694998240 +0900	commit: update INFO.md
+a0b74ac31cf4a3ec7b90d6fdd26d2663f6b38488 a0b74ac31cf4a3ec7b90d6fdd26d2663f6b38488 test testing <saladbox207@protonmail.com> 1694998311 +0900	reset: moving to HEAD
+a0b74ac31cf4a3ec7b90d6fdd26d2663f6b38488 bdb744b1cd9881c08fb2a4725dde90be75764b63 test testing <saladbox207@protonmail.com> 1694998574 +0900	commit: update INFO.md
+bdb744b1cd9881c08fb2a4725dde90be75764b63 a0b74ac31cf4a3ec7b90d6fdd26d2663f6b38488 test testing <saladbox207@protonmail.com> 1694998654 +0900	reset: moving to HEAD~
+a0b74ac31cf4a3ec7b90d6fdd26d2663f6b38488 be7e5eaf7d5e510e1f0e5fe0ae64f6fc1a39d115 test testing <saladbox207@protonmail.com> 1694998719 +0900	reset: moving to HEAD~
+be7e5eaf7d5e510e1f0e5fe0ae64f6fc1a39d115 ec0de830b32923b3acd33bb161ab31ae77783ac2 test testing <saladbox207@protonmail.com> 1694998724 +0900	reset: moving to HEAD~
+ec0de830b32923b3acd33bb161ab31ae77783ac2 603a31201601e0f8275461c526288b78679fe1d8 test testing <saladbox207@protonmail.com> 1694998730 +0900	reset: moving to HEAD~
+603a31201601e0f8275461c526288b78679fe1d8 14787905d75499fe78d943b0bf4770cbf5f7cd2f test testing <saladbox207@protonmail.com> 1694998737 +0900	reset: moving to HEAD~
+14787905d75499fe78d943b0bf4770cbf5f7cd2f ec0de830b32923b3acd33bb161ab31ae77783ac2 test testing <saladbox207@protonmail.com> 1694998851 +0900	pull: Fast-forward
+ec0de830b32923b3acd33bb161ab31ae77783ac2 176a664f710f2f704f43df6bfec98eb6e4acfc05 test testing <saladbox207@protonmail.com> 1694999135 +0900	commit: update README.md
+176a664f710f2f704f43df6bfec98eb6e4acfc05 ec0de830b32923b3acd33bb161ab31ae77783ac2 test testing <saladbox207@protonmail.com> 1694999196 +0900	reset: moving to HEAD~
+ec0de830b32923b3acd33bb161ab31ae77783ac2 1d205f38a62dd8f3cb3fe01393fc3790b8385d4d test testing <saladbox207@protonmail.com> 1694999398 +0900	commit: update README.md
+1d205f38a62dd8f3cb3fe01393fc3790b8385d4d c3b0e241d28790bf0d1a3b0cdb6568da12eefe43 test testing <saladbox207@protonmail.com> 1695005147 +0900	commit: add TOP CONTENT to INFO.md and README.md
+c3b0e241d28790bf0d1a3b0cdb6568da12eefe43 5769885ef68de542832e3c3999e48756391df2da test testing <saladbox207@protonmail.com> 1695005211 +0900	commit (amend): add TOP CONTENT to INFO.md and README.md
+5769885ef68de542832e3c3999e48756391df2da 254f7a08fa003f37b446c48103383022ade3ced4 test testing <saladbox207@protonmail.com> 1695005334 +0900	commit (amend): add TOP CONTENT to INFO.md and README.md
+254f7a08fa003f37b446c48103383022ade3ced4 a5d070d06ef2086214a580a400072b8a1cf45c68 test testing <saladbox207@protonmail.com> 1695005904 +0900	revert: Revert "yeehaaww m8"
+a5d070d06ef2086214a580a400072b8a1cf45c68 b5aaa09be2843fcf70486c5db75c89f6926196a6 test testing <saladbox207@protonmail.com> 1695096078 +0900	commit: add oi.md
+b5aaa09be2843fcf70486c5db75c89f6926196a6 37cfc7bb42f0c3c1723257923d4cd98c6a06c3a5 test testing <saladbox207@protonmail.com> 1695096499 +0900	commit: fix to INFO, README, oi
+37cfc7bb42f0c3c1723257923d4cd98c6a06c3a5 17f0b08cb800e06d544ec2fd1cf997d80ef6a4cf test testing <saladbox207@protonmail.com> 1695097393 +0900	commit: fix INFO.md and README.md
+17f0b08cb800e06d544ec2fd1cf997d80ef6a4cf 91d170fdbb8ac4d6e23a271aa6e865cd236e097f test testing <saladbox207@protonmail.com> 1695097551 +0900	commit: fix INFO.md
+91d170fdbb8ac4d6e23a271aa6e865cd236e097f 36fdfdd093b5c0e02ada2d6493a5ba46401e7110 test testing <saladbox207@protonmail.com> 1695098424 +0900	commit: fix README.md
+36fdfdd093b5c0e02ada2d6493a5ba46401e7110 ea134242d287f69286a83becb5b88f3e2a1ce4d4 test testing <saladbox207@protonmail.com> 1695098707 +0900	commit: git add -i test
+ea134242d287f69286a83becb5b88f3e2a1ce4d4 e7e75f70ab717154d5841c40f8f830e60be0a280 test testing <saladbox207@protonmail.com> 1695098810 +0900	commit: fix README.md
+e7e75f70ab717154d5841c40f8f830e60be0a280 b5aaa09be2843fcf70486c5db75c89f6926196a6 test testing <saladbox207@protonmail.com> 1695184658 +0900	checkout: moving from main to b5aaa09
+b5aaa09be2843fcf70486c5db75c89f6926196a6 e7e75f70ab717154d5841c40f8f830e60be0a280 test testing <saladbox207@protonmail.com> 1695184814 +0900	checkout: moving from b5aaa09be2843fcf70486c5db75c89f6926196a6 to main
+e7e75f70ab717154d5841c40f8f830e60be0a280 b5aaa09be2843fcf70486c5db75c89f6926196a6 test testing <saladbox207@protonmail.com> 1695184848 +0900	checkout: moving from main to b5aaa09
+b5aaa09be2843fcf70486c5db75c89f6926196a6 e7e75f70ab717154d5841c40f8f830e60be0a280 test testing <saladbox207@protonmail.com> 1695186946 +0900	checkout: moving from b5aaa09be2843fcf70486c5db75c89f6926196a6 to main
+e7e75f70ab717154d5841c40f8f830e60be0a280 ea134242d287f69286a83becb5b88f3e2a1ce4d4 test testing <saladbox207@protonmail.com> 1695266965 +0900	reset: moving to HEAD~1
+ea134242d287f69286a83becb5b88f3e2a1ce4d4 0baa46c4f346791aba47c841566fb2ab9beb21f3 test testing <saladbox207@protonmail.com> 1695270372 +0900	commit: fix INFO.md
+0baa46c4f346791aba47c841566fb2ab9beb21f3 e7e75f70ab717154d5841c40f8f830e60be0a280 test testing <saladbox207@protonmail.com> 1695270490 +0900	pull (start): checkout e7e75f70ab717154d5841c40f8f830e60be0a280
+e7e75f70ab717154d5841c40f8f830e60be0a280 67aa9dc65e987089d0c328e1091852c147cb84fe test testing <saladbox207@protonmail.com> 1695270490 +0900	pull (pick): fix INFO.md
+67aa9dc65e987089d0c328e1091852c147cb84fe 67aa9dc65e987089d0c328e1091852c147cb84fe test testing <saladbox207@protonmail.com> 1695270490 +0900	pull (finish): returning to refs/heads/main
+67aa9dc65e987089d0c328e1091852c147cb84fe 326cbbc15034c06d9e951b7f42c539ae36596fe1 test testing <saladbox207@protonmail.com> 1695357103 +0900	commit: add gitignore
+326cbbc15034c06d9e951b7f42c539ae36596fe1 834f702011582ab9b2b04a17c9fea8bab5642cb8 test testing <saladbox207@protonmail.com> 1695357552 +0900	commit: rm INFO.md
+834f702011582ab9b2b04a17c9fea8bab5642cb8 834f702011582ab9b2b04a17c9fea8bab5642cb8 test testing <saladbox207@protonmail.com> 1695358500 +0900	reset: moving to HEAD
+834f702011582ab9b2b04a17c9fea8bab5642cb8 834f702011582ab9b2b04a17c9fea8bab5642cb8 test testing <saladbox207@protonmail.com> 1695358763 +0900	reset: moving to HEAD
+834f702011582ab9b2b04a17c9fea8bab5642cb8 834f702011582ab9b2b04a17c9fea8bab5642cb8 test testing <saladbox207@protonmail.com> 1695359260 +0900	reset: moving to HEAD
+834f702011582ab9b2b04a17c9fea8bab5642cb8 c5ee1edab93bafe08619e834b891cd5cd902c11f test testing <saladbox207@protonmail.com> 1695643189 +0900	commit: add C practice dir
+c5ee1edab93bafe08619e834b891cd5cd902c11f b84d39188f9f2a59eb3fa9d348a0613f068e1bf2 test testing <saladbox207@protonmail.com> 1695643342 +0900	commit: dir C cleanup
+b84d39188f9f2a59eb3fa9d348a0613f068e1bf2 ed2eb926ea5e60ace51af6e1128c08a4b87ee0f0 test testing <saladbox207@protonmail.com> 1695643482 +0900	commit: fix .gitignore
+ed2eb926ea5e60ace51af6e1128c08a4b87ee0f0 f0f1064c4ad475813c1fc8d7f67fedd718f1758e test testing <saladbox207@protonmail.com> 1695643554 +0900	commit: rm vscode cache
+f0f1064c4ad475813c1fc8d7f67fedd718f1758e c7b85aa8e6840398d24c0648e19d5aa9fd82e44a test testing <saladbox207@protonmail.com> 1695643939 +0900	commit: fix README.md
+c7b85aa8e6840398d24c0648e19d5aa9fd82e44a 4ae99717fb7599a5ec7a764ab9e0a2961562afa5 test testing <saladbox207@protonmail.com> 1695645374 +0900	commit: add muricaflag printf
+4ae99717fb7599a5ec7a764ab9e0a2961562afa5 797b859de399f1e90d9886c50935f8ea001ff594 test testing <saladbox207@protonmail.com> 1695704995 +0900	commit: cleanup
+797b859de399f1e90d9886c50935f8ea001ff594 4a9685640c2adc49e5076b9f35df151e538d9f8e test testing <saladbox207@protonmail.com> 1695705963 +0900	commit: add practice1
+4a9685640c2adc49e5076b9f35df151e538d9f8e 98342001047f2acf6e2297fe79ae8913fe9da000 test testing <saladbox207@protonmail.com> 1695706049 +0900	commit: add practice1 exe
+98342001047f2acf6e2297fe79ae8913fe9da000 b5e7cbd1d6c3605affaf2a19a42d56db113df6b4 test testing <saladbox207@protonmail.com> 1695710422 +0900	commit: rm xxx.c
+b5e7cbd1d6c3605affaf2a19a42d56db113df6b4 3ad5b8ec6d5e4db8344aeec131f01ca4d7b859ac test testing <saladbox207@protonmail.com> 1695710444 +0900	commit: add practice1
+3ad5b8ec6d5e4db8344aeec131f01ca4d7b859ac 5433941079ad1fed4343ad495c88bcf09f3df23b test testing <saladbox207@protonmail.com> 1695710990 +0900	commit: add practice2
+5433941079ad1fed4343ad495c88bcf09f3df23b 646b75b74f9a750c544e433fcee3e0c020082d27 test testing <saladbox207@protonmail.com> 1695712479 +0900	commit: add practice2 and fix practice2.c
+646b75b74f9a750c544e433fcee3e0c020082d27 d17cbc40a9256f383375d6493ba448064a0a48c2 test testing <saladbox207@protonmail.com> 1695716824 +0900	commit: fix practice2
+d17cbc40a9256f383375d6493ba448064a0a48c2 b397dad911b4246520ce68c86d98b6cf196970b9 test testing <saladbox207@protonmail.com> 1695717684 +0900	commit: fix practice2
+b397dad911b4246520ce68c86d98b6cf196970b9 fc92f439d8639bdfdbadf8413bb705a08ac63fbd test testing <saladbox207@protonmail.com> 1695717947 +0900	commit: fix practice2
+fc92f439d8639bdfdbadf8413bb705a08ac63fbd a5ec94342947bd02471158a2a136183b55bc5ef2 test testing <saladbox207@protonmail.com> 1695727334 +0900	commit: add practice3
+a5ec94342947bd02471158a2a136183b55bc5ef2 2fbef4a0e52d6f6d1aff0782bab9bd12a894035c test testing <saladbox207@protonmail.com> 1695728801 +0900	commit: fix practice3
+2fbef4a0e52d6f6d1aff0782bab9bd12a894035c 248b511af6d0641bb2b773442e20d74f7fe95647 test testing <saladbox207@protonmail.com> 1695824593 +0900	commit: add p4
+248b511af6d0641bb2b773442e20d74f7fe95647 37253576afb74c15b131941811d16958c66bc85b test testing <saladbox207@protonmail.com> 1695898787 +0900	commit: fix p3
+37253576afb74c15b131941811d16958c66bc85b f0ff9644ac1a81fa5805a232579e1469319ab12e test testing <saladbox207@protonmail.com> 1695964421 +0900	commit: fix p3
+f0ff9644ac1a81fa5805a232579e1469319ab12e 1114dfd3fa2110613ea27157209162c96b646747 test testing <saladbox207@protonmail.com> 1695968161 +0900	commit: mod p4
+1114dfd3fa2110613ea27157209162c96b646747 a5d0e8949f1193ee162df6a7d14996728ff541dd test testing <saladbox207@protonmail.com> 1695968974 +0900	commit: add p5
+a5d0e8949f1193ee162df6a7d14996728ff541dd 4b97bc0908ca2b7570754b89adb523496616c539 test testing <saladbox207@protonmail.com> 1695969298 +0900	commit: add p6
+4b97bc0908ca2b7570754b89adb523496616c539 3a0e77fc16ccf97dada725968733e7806817f391 test testing <saladbox207@protonmail.com> 1696333279 +0900	commit: add p7
+3a0e77fc16ccf97dada725968733e7806817f391 557611e6c4dbb8a26471cfa489811055cd70436d test testing <saladbox207@protonmail.com> 1696334808 +0900	commit: add p8
+557611e6c4dbb8a26471cfa489811055cd70436d 9d67ce6da55749f86ae25f5a909f11b6e3f0a3d9 test testing <saladbox207@protonmail.com> 1696337522 +0900	commit: fix p7
+9d67ce6da55749f86ae25f5a909f11b6e3f0a3d9 9242de30f4bdf95e1f48d48f93403511e170ede7 test testing <saladbox207@protonmail.com> 1696404210 +0900	commit: add p9_scanf
+9242de30f4bdf95e1f48d48f93403511e170ede7 77cea77f6377982394116654ab8eb33e70bb020d test testing <saladbox207@protonmail.com> 1696405894 +0900	commit: fix p6
+77cea77f6377982394116654ab8eb33e70bb020d 4ed3ffe798dc39aca552ad52f203d39831177c2f test testing <saladbox207@protonmail.com> 1696407441 +0900	commit: fix p6
+4ed3ffe798dc39aca552ad52f203d39831177c2f f30af02c5d30938183d85fe3b322c5229d5783aa test testing <saladbox207@protonmail.com> 1696411886 +0900	commit: fix p9_scanf
+f30af02c5d30938183d85fe3b322c5229d5783aa 2e279fc713ee632d5bddba2af10813f91639b4d4 test testing <saladbox207@protonmail.com> 1696832100 +0900	commit: add p10
+2e279fc713ee632d5bddba2af10813f91639b4d4 99d6a2b594e7d166a1bc5b89341b66de4379069c test testing <saladbox207@protonmail.com> 1696836944 +0900	commit: add p11_math
+99d6a2b594e7d166a1bc5b89341b66de4379069c fed950f430d9f61852200fd8967412191272f596 test testing <saladbox207@protonmail.com> 1696923451 +0900	commit: feat: p11_math
+fed950f430d9f61852200fd8967412191272f596 a401c08bc961e14e8e29c549eb2c5a5fbfbc88ed test testing <saladbox207@protonmail.com> 1697166110 +0900	commit: add p12_rand
+a401c08bc961e14e8e29c549eb2c5a5fbfbc88ed d0d829cf3c6890ba7f9712459d0ebc33d7d2444b test testing <saladbox207@protonmail.com> 1697261062 +0900	commit: add p13_math
+d0d829cf3c6890ba7f9712459d0ebc33d7d2444b d70087d46421d51393792e0f6ea76fc08d3c9f72 test testing <saladbox207@protonmail.com> 1697262028 +0900	commit: fix p13_math: syntax and commentary
+d70087d46421d51393792e0f6ea76fc08d3c9f72 78f1add2c10fb49e09bf266f997c91f167537624 test testing <saladbox207@protonmail.com> 1697263214 +0900	commit: add p14_math
+78f1add2c10fb49e09bf266f997c91f167537624 e9f6fff581ba44dec94bda32e8ac61b39be1d7f9 test testing <saladbox207@protonmail.com> 1697436928 +0900	commit: add p15
+e9f6fff581ba44dec94bda32e8ac61b39be1d7f9 b08819d1fe65e4c948670257f42402b70ed106ae test testing <saladbox207@protonmail.com> 1697437859 +0900	commit: add p14, p15
+b08819d1fe65e4c948670257f42402b70ed106ae aacb56932ff6f3e36bac035f4be466d11808ff80 test testing <saladbox207@protonmail.com> 1697607044 +0900	commit: add p16
+aacb56932ff6f3e36bac035f4be466d11808ff80 2d0330a364c910d1dc6ace2adacb0bef6405cfa5 test testing <saladbox207@protonmail.com> 1697608175 +0900	commit: add p17
+2d0330a364c910d1dc6ace2adacb0bef6405cfa5 a7a88e28cb546c89694a7b889301f7ad67f7f668 test testing <saladbox207@protonmail.com> 1697608659 +0900	commit: add p18
+a7a88e28cb546c89694a7b889301f7ad67f7f668 e6d4aa66e7699dd589872cdd4a18f0a1cff1b003 test testing <saladbox207@protonmail.com> 1697613021 +0900	commit: add p19_if_else
+e6d4aa66e7699dd589872cdd4a18f0a1cff1b003 f77cc39d98e3c7a88d2b7340d30b328a3d665ef1 test testing <saladbox207@protonmail.com> 1697622347 +0900	commit: add p20_switch
+f77cc39d98e3c7a88d2b7340d30b328a3d665ef1 e44f0cb31958bce0249e6d5d4bfa64d398975c4e test testing <saladbox207@protonmail.com> 1697622679 +0900	commit: feat add p20_switch
+e44f0cb31958bce0249e6d5d4bfa64d398975c4e f46a2ccd82b5bcc5f63560eb822c5c83de25e71e test testing <saladbox207@protonmail.com> 1697624664 +0900	commit: add p21_switch
+f46a2ccd82b5bcc5f63560eb822c5c83de25e71e 5e10f6c4a4e4527e419eee90ba19255701904821 test testing <saladbox207@protonmail.com> 1697627167 +0900	commit: add p22_temperature
+5e10f6c4a4e4527e419eee90ba19255701904821 21b10a552320754f2a5457fd7538428c3a410472 test testing <saladbox207@protonmail.com> 1697692429 +0900	commit: add p23_calculator
+                                                                                                                                                                                 
