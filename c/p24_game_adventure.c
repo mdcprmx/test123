@@ -22,7 +22,7 @@ int main() {
 
     switch(choice){
 
-        // First route START 
+        // First route START ..
         case 1: 
         printf("\nYay! Happily, he took the mushroom and joyfully with a big smile on his face went home.");
         printf(" At home, he got another two choices:");
