@@ -63,17 +63,14 @@ int main() {
     scanf(" %c", &furniture_assembly_expirience); // input 10
 
     // 3 - main body
-    if(){
-        printf("");
-        else if(){
 
-        }
+    if(professional_expirience = 'g'){
+        printf("You are fully compatible with our company! Our HR manager will contact you soon.\n");
     }
     
-    else{
-
-        printf("You have entered the wrong symbol, please restart the program.");
-        
+    else
+    {
+        printf("Sorry, you are not qualitified enough to work at our SUPERIOR company.\n");
     }
 
 
