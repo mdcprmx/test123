@@ -9,10 +9,10 @@
 // !!! FUNCTIONS CANT SEE INSIDE OTHER FUNCTIONS (in this case, "ask_player" CANT see variables inside "main")
 //     so we have to pass them as ARGUMENTS when invoking a function.
 
-void shoot_pistol(int pistol_ammo)
+int shoot_pistol(int pistol_ammo)
 {
-    printf("\nYou shoot your pistol!");
-    pistol_ammo = pistol_ammo - 1;
+    printf("\nYou shoot your pistol!");;
+    return pistol_ammo - 1;
 }
 
 
@@ -56,14 +56,16 @@ int main()
     printf("- You also have a pistol - Glock17, with %d bullets.\n", pistol_ammo);
     printf("- And only %d grenades.\n", grenades);
     
-    shoot_pistol(pistol_ammo);
-    shoot_pistol(pistol_ammo);
-    shoot_pistol(pistol_ammo);
+    pistol_ammo = shoot_pistol(pistol_ammo);
+    pistol_ammo = shoot_pistol(pistol_ammo);
+    pistol_ammo = shoot_pistol(pistol_ammo);
+    pistol_ammo = shoot_pistol(pistol_ammo);
+    
 
     printf("\n\nYou have %d pistol ammo left.\n", pistol_ammo);
     
-    // bruh, it doesn't "SAVE" the new variable number, will have to return to this code later.
-    // I kind-a understand why, but I lack knowledge to actually make it work. For now.
+    // Oh yes, i get it now. just have to find time and motivation to code all of this
+    // 
 
     // 99 - end
 
