@@ -11,6 +11,7 @@
 
 void shoot_pistol(int pistol_ammo)
 {
+    printf("\nYou shoot your pistol!");
     pistol_ammo = pistol_ammo - 1;
 }
 
