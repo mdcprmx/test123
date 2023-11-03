@@ -12,13 +12,12 @@ int main()
     int age;
     int fingers;
     int relatives;
-    
-    int age_r;
 
     // 1 - main body
     age = ask_age(age);
     fingers = ask_fingers(fingers);
     relatives = ask_relatives(relatives);
+    
     // btw, if u just invoke functions without assigning a variable to them, then 
     // programm will not be able to read "age" or "fingers" or whatever variable,
     // and just display it as 0.
