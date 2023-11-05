@@ -45,7 +45,7 @@ printf("\nstrncpy (string N chars, copy): %s\n", first_name);
 //strset(first_name, '?');             
 //printf("\nstrset (string set): %s\n", first_name);
 //  sets all characters of a string to a given character.
-//  once again, it doesn't work in UNIX.
+//  once again, it doesn't work in vanilla UNIX.
 
 //strnset(first_name, 'x', 1);
 //  sets first N characters of a string to a given character.
@@ -58,18 +58,15 @@ char name3[] = "Tomatoki";
 int result = strlen(name3);    // returns string length as int
 printf("\nname3 = %s \nstrlen (string lenght): %d\n", name3, result);
 
+int resulttt = strcmp(first_name, second_name); 
+// string compare all characters
+// if they are the same, it will return 0.
+printf("\nfirst name: %s\nsecond name: %s\n", first_name, second_name);
+printf("strcmp(string compare): %d\n", resulttt);
 
-
-
-
-
-
-
-
-
-
-
-
+// strncmp(a, b, 1);    // string compare N characters
+// strcmpi(a, b);       // string compare all, ignore case.
+// strnicmp(a, b, 1);   // string compare n characters, ignore case.
 
 
 
