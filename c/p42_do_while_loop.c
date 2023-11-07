@@ -14,7 +14,7 @@ int main()
 char ask;
 char ask2;
 int bullets;
-int bullets_summ = 30;
+int bullets_summ = 12;
 
 // 2 - lyrics
 printf("\n\nZombie apocalypse is on us! You are left on the streets alone, with your trusty gun\n");
@@ -39,7 +39,7 @@ do
 
         if(ask2 == 'y')
         {
-            bullets_summ = 30;
+            bullets_summ = 12;
             printf("\nGun is reloaded! Bullets left: %d\n", bullets_summ);
         }
     }
