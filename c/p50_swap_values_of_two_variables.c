@@ -38,8 +38,8 @@ printf("%c\n\n", b);
 char cup[22] = "Tea";
 char bottle[22] = "Cola";
 char temp_cup[22]; // 22 is maximum string lenght.
-// and to avoid bugs, it's best to set this value. to whatever pleases you.
-// if u leave em empty [], it may get bugged.
+// and to avoid bugs, it's best to set this value. to whatever number pleases you.
+// if u leave them both empty [], it may get bugged.
 
 printf("Default STRING:\n%s\n", cup);
 printf("%s\n", bottle);
