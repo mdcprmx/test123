@@ -30,6 +30,7 @@ struct PlayeableCharacter Franklin;
 // soo ur like assigning variables according to struct 
 // from %STRUCT_NAME% to %VARIABLE_NAME%
 
+// 1 - main body
 printf("\nName:\"%s\", HP:%d, Money:%.2lf$\n", Trevor.name, Trevor.health, Trevor.money);
 printf("Broke ass beatch with no name!\n");
 // by default its all 0. no name, no HP, no money.
