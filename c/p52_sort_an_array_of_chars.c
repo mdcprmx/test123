@@ -2,7 +2,6 @@
 #include <string.h>
 
 // in this programm we will SORT an array from random chaos to ascending order
-// or in simple terms, 
 
 // so what's the difference between INT and CHAR?
 // u just change it to char lmao
