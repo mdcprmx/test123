@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// typedef = reserved keyword that gives an existing datatype a nickname
+// typedef = reserved keyword that gives an existing datatype a %nickname%
 //           it is mostly used to type less repetetive code
 
 // we can also combine it with STRUCT. That's where it shines!
