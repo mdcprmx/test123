@@ -14,8 +14,7 @@ char quiz_questions[][100] = {
                                 "4. Who are the JoJo's?",
                              };
 enum Number_Quiz_Questions {NumberQQ = 4}; // this number is UP here ^ // its a total number of quiz questions
-/////////////////////////////////////////////
-/////////////////////////////////////////////
+
 char quiz_options[][100] =   {
                                 "A. Survival", "B. Consumption", "C. Happiness ", "D. Love ",
                                 "A. 1502", "B. 1900", "C. 1995", "D. 2023",
@@ -23,12 +22,14 @@ char quiz_options[][100] =   {
                                 "A. Bad guys who beat good guys", "B. Good guys who beat everyone", "C. Warriors who protect the universe!", "D. Bizzare relatives with \"Jo\" phonetic sound in their name.",
                              };
 
-char quiz_answers[4] = {'A', 'C', 'B', 'D'};
+char quiz_answers[4] = {'A', 'C', 'B', 'D'}; // correct scanf inputs, in order.
 
 int quiz_total_questions_number = sizeof(quiz_questions)/sizeof(quiz_questions[0]); // dynamic calc in int.
 
-char quiz_guess;
-int quiz_score = 0;
+char quiz_guess;     // used for user input only
+int quiz_score = 0;  // used to count Correct answers only.
+
+
 
 // 1 - main body
 printf("\nQUIZ GAMEEE BEGIINS!\n");
